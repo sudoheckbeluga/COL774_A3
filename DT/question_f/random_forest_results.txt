@@ -1,0 +1,15 @@
+Random Forest - Grid Search Results
+============================================================
+
+Best Parameters:
+  criterion: entropy
+  max_features: 0.9
+  min_samples_split: 8
+  n_estimators: 350
+  oob_score: True
+
+Accuracies:
+  Training Accuracy:        99.20%
+  Out-of-Bag (OOB) Accuracy: 71.85%
+  Validation Accuracy:      70.69%
+  Test Accuracy:            69.91%
